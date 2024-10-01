@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Yonathan Gashu! 👋
 
-<!--
-**YonniGashu/YonniGashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate computer science student at Georgia Tech with a love for coding, game development, and cars. 🚗💻
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Currently studying Computer Science at Georgia Tech
+- 🌱 Learning Game Development with Unity
+- 🔍 Exploring the intersection of technology and psychology
+- 🌍 Researching machine learning and its applications in autonomous vehicles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages**: Java, C#, Python, TypeScript, JavaScript, HTML, CSS
+- **Frameworks**: React, Django, Unity
+- **Tools**: Git, Vite, Google Sites
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ygashu)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+## 📫 How to Reach Me
+Feel free to reach out for collaboration, questions, or just to connect! You can find me at [yonathangashu@gmail.com].
+
+<!-- GitHub Stats -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
