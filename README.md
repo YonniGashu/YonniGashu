@@ -15,7 +15,6 @@ I'm a passionate computer science student at Georgia Tech with a love for coding
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/ygashu)
-- [Twitter](https://twitter.com/your-twitter-handle)
 
 ## 📫 How to Reach Me
 Feel free to reach out for collaboration, questions, or just to connect! You can find me at [yonathangashu@gmail.com].
