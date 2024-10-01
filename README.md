@@ -1,18 +1,4 @@
-# Hi there, I'm Yonathan Gashu! 👋
-
-I'm a passionate computer science student at Georgia Tech with a love for coding, game development, and cars. 🚗💻
-
-## About Me
-- 🎓 Currently studying Computer Science at Georgia Tech
-- 🌱 Learning Game Development with Unity
-- 🔍 Exploring the intersection of technology and psychology
-- 🌍 Researching machine learning and its applications in autonomous vehicles
-
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ygashu)
-
-## 📫 How to Reach Me
-Feel free to reach out for collaboration, questions, or just to connect! You can find me at [yonathangashu@gmail.com].
+# Hey, I'm Yonathan Gashu! 👋
 
 <!-- GitHub Stats -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YonniGashu&show_icons=true&hide_title=true&count_private=true&theme=radical)
